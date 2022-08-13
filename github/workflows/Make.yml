@@ -18,7 +18,7 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/depesh1977/android_device_gstone_TM-5075-sp7731e_1h10'
+        default: 'https://github.com/depesh1977/v210d'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
@@ -26,11 +26,11 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/gstone/TM5075'
+        default: 'device/dexp/VA210'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'TM5075'
+        default: 'VA210'
       DEVICE_TYPE:
         description: 'DEVICE_TYPE'
         required: true
